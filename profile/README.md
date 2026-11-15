@@ -1,14 +1,20 @@
-# Nexos AI Lab 🚀
+<div align="center">
+  <img src="brand-assets/nexos_banner_official_v2_2.png" alt="Nexos AI Lab Official Banner" width="100%" />
 
-> **Production-grade AI engineering, distributed multi-agent systems, and enterprise automation.**
+  <br/><br/>
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Nexos%20AI%20Lab-red.svg?logo=youtube)](https://www.youtube.com/@NexosAILab)
-[![Website](https://img.shields.io/badge/Official%20Site-nexosailab.vercel.app-cyan.svg)](https://nexosailab.vercel.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![YouTube Channel](https://img.shields.io/badge/YouTube-Nexos%20AI%20Lab-red.svg?logo=youtube)](https://www.youtube.com/@NexosAILab)
+  [![Website](https://img.shields.io/badge/Official%20Site-nexosailab.vercel.app-cyan.svg)](https://nexosailab.vercel.app)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the official GitHub organization of **Nexos AI Lab**. We build, benchmark, and open-source resilient AI architectures for production environments—cutting through the hype to deliver deterministic, high-throughput systems.
+  <p align="center">
+    <strong>Production-grade AI engineering, distributed multi-agent systems, and enterprise automation.</strong>
+  </p>
+</div>
 
 ---
+
+Welcome to the official GitHub organization of **Nexos AI Lab**. We build, benchmark, and open-source resilient AI architectures for production environments—cutting through the hype to deliver deterministic, high-throughput systems.
 
 ## 🧭 Engineering Tracks
 
@@ -37,6 +43,6 @@ Our work and content are structured into two core engineering disciplines:
 
 ## 🌐 Connect & Resources
 
-- **YouTube:** [@NexosAILab](https://www.youtube.com/@NexosAILab)
-- **Web Platform:** [nexosailab.vercel.app](https://nexosailab.vercel.app)
-- **Consulting & Enterprise Inquiries:** `nexosailab@gmail.com`
+- **Official Web Hub:** [nexosailab.vercel.app](https://nexosailab.vercel.app)
+- **YouTube Channel:** [@NexosAILab](https://www.youtube.com/@NexosAILab)
+- **Direct Contact:** `nexosailab@gmail.com`
