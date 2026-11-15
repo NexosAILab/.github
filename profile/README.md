@@ -4,6 +4,7 @@
   <br/><br/>
 
   [![YouTube Channel](https://img.shields.io/badge/YouTube-Nexos%20AI%20Lab-red.svg?logo=youtube)](https://www.youtube.com/@NexosAILab)
+  [![X (formerly Twitter)](https://img.shields.io/badge/X-@NexosAILab-black.svg?logo=x)](https://x.com/NexosAILab)
   [![Website](https://img.shields.io/badge/Official%20Site-nexosailab.vercel.app-cyan.svg)](https://nexosailab.vercel.app)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -45,4 +46,4 @@ Our work and content are structured into two core engineering disciplines:
 
 - **Official Web Hub:** [nexosailab.vercel.app](https://nexosailab.vercel.app)
 - **YouTube Channel:** [@NexosAILab](https://www.youtube.com/@NexosAILab)
-- **Direct Contact:** `nexosailab@gmail.com`
+- **Official X (Twitter):** [@NexosAILab](https://x.com/NexosAILab)
