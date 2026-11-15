@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NexosAILab/.github/main/brand-assets/nexos_banner_official_v2_en.jpg" alt="Nexos AI Lab Official Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/NexosAILab/.github/main/brand-assets/github_header_banner.jpg" alt="Nexos AI Lab Official Banner" width="100%" />
 
   <br/><br/>
 
