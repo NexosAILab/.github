@@ -37,6 +37,7 @@ Our work and content are structured into two core engineering disciplines:
 
 | Repository | Track | Description | Episode Reference |
 | :--- | :--- | :--- | :--- |
+| [**hybrid-rag-mcp-starter**](https://github.com/NexosAILab/hybrid-rag-mcp-starter) | Multi-Agent | Production-ready Hybrid RAG in Python with BM25, vectors, RRF, and deterministic gate | [VID_003: Build Hybrid RAG MCP Server](https://www.youtube.com/@NexosAILab) |
 | [**multi-agent-mcp-starter**](https://github.com/NexosAILab/multi-agent-mcp-starter) | Multi-Agent | Distributed Python micro-agents with MCP, FastAPI, and ZoneInfo calendar sync | [VID_002: Build Multi-Agent System](https://www.youtube.com/watch?v=Q4apC-tffJc) |
 | [**autonomous-agent-starter**](https://github.com/NexosAILab/autonomous-agent-starter) | Enterprise n8n | Production-ready self-healing autonomous agent starter without code bloat | [VID_001: Build First AI Agent](https://www.youtube.com/watch?v=hI8xuR7S49U) |
 
