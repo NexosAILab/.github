@@ -58,4 +58,4 @@ All starter repositories adhere to our strict engineering invariant: **100% pass
 - **YouTube Channel:** [@NexosAILab](https://www.youtube.com/@NexosAILab)
 - **Official X (Twitter):** [@NexosAILab](https://x.com/NexosAILab)
 - **GitHub Organization:** [NexosAILab](https://github.com/NexosAILab)
-- **Engineering Inquiries:** [engineering@nexosailab.com](mailto:engineering@nexosailab.com)
+- **Engineering Inquiries:** [nexosailab@gmail.com](mailto:nexosailab@gmail.com)
