@@ -8,5 +8,9 @@ Please **do not** report security vulnerabilities through public GitHub issues.
 - Use GitHub Private Vulnerability Reporting (Security Advisories) on this repository, or email `nexosailab@gmail.com`.
 - Include steps to reproduce, affected files/versions, and potential impact.
 
-## Remediation SLA
-- **Critical:** 24h | **High:** 7 days | **Medium:** 30 days | **Low:** 90 days
+## Response & Remediation Targets
+*(Best-effort targets, not a contractual SLA)*
+- **Critical** (auth bypass, leaked credentials, RCE): acknowledgment within 24 hours · target remediation 7 days
+- **High:** acknowledgment within 48 hours · target remediation 14 days
+- **Medium:** acknowledgment within 5 business days · target remediation 30 days
+- **Low:** best effort
